@@ -1,0 +1,13 @@
+# Secret keys
+.env
+
+# Virtual Environment
+venv/
+__pycache__/
+
+# Data files (keep your repo clean)
+*.csv
+*.png
+
+# VS Code settings
+.vscode/
