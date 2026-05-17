@@ -5,7 +5,7 @@ An end-to-end data pipeline that fetches financial news and uses a Deep Learning
 ## 🚀 Features
 * **Live News Ingestion:** Fetches real-time headlines via NewsAPI.
 * **GPU Accelerated:** Optimized for NVIDIA GTX 1650 using CUDA via WSL2.
-* **Financial AI:** Uses `ProsusAI/finbert` to classify sentiment (Positive/Negative/Neutral).
+* **Financial AI:** Uses `finbert` to classify sentiment (Positive/Negative/Neutral).
 * **Data Visualization:** Overlays sentiment results with actual stock price movements.
 
 ## 🛠️ Tech Stack
